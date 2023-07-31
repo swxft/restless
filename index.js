@@ -18,7 +18,7 @@ app.use(express.json());
 
 	
 app.get('/', function (req, res) {
-  res.send('Hello World!')
+  res.send('We are live 👋!')
 })
 
 app.get("/users/:userId", async function (req, res) {

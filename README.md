@@ -1,16 +1,5 @@
-<!--
-title: 'Serverless Framework Node Express API service backed by DynamoDB on AWS'
-description: 'This template demonstrates how to develop and deploy a simple Node Express API service backed by DynamoDB running on AWS Lambda using the traditional Serverless Framework.'
-layout: Doc
-framework: v3
-platform: AWS
-language: nodeJS
-priority: 1
-authorLink: 'https://github.com/serverless'
-authorName: 'Serverless, inc.'
-authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
--->
 
+[live](https://9zth5q0j3k.execute-api.us-east-1.amazonaws.com/)
 # Serverless Framework Node Express API on AWS
 
 This template demonstrates how to develop and deploy a simple Node Express API service, backed by DynamoDB database, running on AWS Lambda using the traditional Serverless Framework.
